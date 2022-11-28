@@ -1,0 +1,14 @@
+{
+  "name": "animated-robot-model",
+  "version": "1.0.0",
+  "description": "animated-robot-model made with three.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bigd",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
