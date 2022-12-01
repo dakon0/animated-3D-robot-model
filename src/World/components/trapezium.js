@@ -6,7 +6,7 @@ import {
   BufferGeometry,
   BufferAttribute
 
-} from "../../../node_modules/three/build/three.module.js";
+} from "three";
 function createTrapezium() {
   const vertices = [
     // front

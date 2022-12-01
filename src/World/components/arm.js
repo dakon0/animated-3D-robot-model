@@ -3,7 +3,7 @@ import {
     MeshStandardMaterial,
     MathUtils,
     CylinderGeometry
-} from "../../../node_modules/three/build/three.module.js";
+} from "three";
 import { createTrapezium } from "./trapezium.js"
 
 function createArm() {

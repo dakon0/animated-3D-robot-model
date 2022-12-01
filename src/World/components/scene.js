@@ -1,7 +1,7 @@
 import {
   Color,
   Scene,
-} from "../../../node_modules/three/build/three.module.js";
+} from "three";
 
 function createScene() {
   const scene = new Scene();

@@ -4,7 +4,7 @@ import {
     MeshPhysicalMaterial,
     MathUtils,
     CylinderGeometry
-} from "../../../node_modules/three/build/three.module.js";
+} from "three";
 
 import { createArm } from "./arm.js";
 

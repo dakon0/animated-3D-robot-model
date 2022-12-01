@@ -3,7 +3,7 @@ import {
   SpotLight,
   PointLight,
   RectAreaLight,
-} from "../../../node_modules/three/build/three.module.js";
+} from "three";
 
 function createLights() {
   const light = new DirectionalLight("white", 8);

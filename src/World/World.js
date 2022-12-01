@@ -3,7 +3,6 @@ import { createLights } from "./components/lights.js";
 import { createScene } from "./components/scene.js";
 import { createRenderer } from "./systems/renderer.js";
 import { Resizer } from "./systems/Resizer.js";
-// import { MathUtils } from "../../node_modules/three/build/three.module.js";
 import { Loop } from './systems/Loop.js';
 import { createRobot } from "./components/robot.js";
 
